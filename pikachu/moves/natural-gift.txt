@@ -1,0 +1,32 @@
+name : natural-gift
+url : https://pokeapi.co/api/v2/move/363/
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : diamond-pearl
+    url : https://pokeapi.co/api/v2/version-group/8/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : platinum
+    url : https://pokeapi.co/api/v2/version-group/9/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : heartgold-soulsilver
+    url : https://pokeapi.co/api/v2/version-group/10/
+}

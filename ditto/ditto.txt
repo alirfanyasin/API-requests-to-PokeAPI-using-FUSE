@@ -1,0 +1,8 @@
+id : 132
+name : ditto
+base_experience : 101
+order : 214
+height : 3
+weight : 40
+is_default : True
+location_area_encounters : https://pokeapi.co/api/v2/pokemon/132/encounters

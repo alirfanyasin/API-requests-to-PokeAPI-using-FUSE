@@ -1,0 +1,4 @@
+name : limber
+url : https://pokeapi.co/api/v2/ability/7/
+is_hidden : False
+slot : 1

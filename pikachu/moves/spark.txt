@@ -1,0 +1,52 @@
+name : spark
+url : https://pokeapi.co/api/v2/move/209/
+
+{
+  level_learned_at : 26
+  move_learn_method :
+    name : level-up
+    url : https://pokeapi.co/api/v2/move-learn-method/1/
+  version_group :
+    name : omega-ruby-alpha-sapphire
+    url : https://pokeapi.co/api/v2/version-group/16/
+}
+
+{
+  level_learned_at : 26
+  move_learn_method :
+    name : level-up
+    url : https://pokeapi.co/api/v2/move-learn-method/1/
+  version_group :
+    name : sun-moon
+    url : https://pokeapi.co/api/v2/version-group/17/
+}
+
+{
+  level_learned_at : 26
+  move_learn_method :
+    name : level-up
+    url : https://pokeapi.co/api/v2/move-learn-method/1/
+  version_group :
+    name : ultra-sun-ultra-moon
+    url : https://pokeapi.co/api/v2/version-group/18/
+}
+
+{
+  level_learned_at : 20
+  move_learn_method :
+    name : level-up
+    url : https://pokeapi.co/api/v2/move-learn-method/1/
+  version_group :
+    name : sword-shield
+    url : https://pokeapi.co/api/v2/version-group/20/
+}
+
+{
+  level_learned_at : 20
+  move_learn_method :
+    name : level-up
+    url : https://pokeapi.co/api/v2/move-learn-method/1/
+  version_group :
+    name : scarlet-violet
+    url : https://pokeapi.co/api/v2/version-group/25/
+}

@@ -1,0 +1,4 @@
+game_index : 76
+version :
+  name : red
+  url : https://pokeapi.co/api/v2/version/1/

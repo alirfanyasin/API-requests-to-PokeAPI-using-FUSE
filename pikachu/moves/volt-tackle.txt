@@ -1,0 +1,22 @@
+name : volt-tackle
+url : https://pokeapi.co/api/v2/move/344/
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : sun-moon
+    url : https://pokeapi.co/api/v2/version-group/17/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : ultra-sun-ultra-moon
+    url : https://pokeapi.co/api/v2/version-group/18/
+}

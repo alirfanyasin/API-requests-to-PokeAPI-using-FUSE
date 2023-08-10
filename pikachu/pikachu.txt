@@ -1,0 +1,8 @@
+id : 25
+name : pikachu
+base_experience : 112
+order : 35
+height : 4
+weight : 60
+is_default : True
+location_area_encounters : https://pokeapi.co/api/v2/pokemon/25/encounters

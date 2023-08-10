@@ -1,0 +1,4 @@
+name : lightning-rod
+url : https://pokeapi.co/api/v2/ability/31/
+is_hidden : True
+slot : 3

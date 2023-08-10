@@ -1,0 +1,12 @@
+name : double-kick
+url : https://pokeapi.co/api/v2/move/24/
+
+{
+  level_learned_at : 9
+  move_learn_method :
+    name : level-up
+    url : https://pokeapi.co/api/v2/move-learn-method/1/
+  version_group :
+    name : lets-go-pikachu-lets-go-eevee
+    url : https://pokeapi.co/api/v2/version-group/19/
+}

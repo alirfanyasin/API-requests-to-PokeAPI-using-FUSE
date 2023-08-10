@@ -1,0 +1,3 @@
+name : electric
+slot : 1
+url : https://pokeapi.co/api/v2/type/13/

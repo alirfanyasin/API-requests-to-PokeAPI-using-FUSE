@@ -1,0 +1,73 @@
+name : oran-berry
+url : https://pokeapi.co/api/v2/item/132/
+version_details :
+
+{
+  rarity : 50
+  version : 
+    name : ruby
+    url : https://pokeapi.co/api/v2/version/7/
+}
+
+{
+  rarity : 50
+  version : 
+    name : sapphire
+    url : https://pokeapi.co/api/v2/version/8/
+}
+
+{
+  rarity : 50
+  version : 
+    name : emerald
+    url : https://pokeapi.co/api/v2/version/9/
+}
+
+{
+  rarity : 50
+  version : 
+    name : diamond
+    url : https://pokeapi.co/api/v2/version/12/
+}
+
+{
+  rarity : 50
+  version : 
+    name : pearl
+    url : https://pokeapi.co/api/v2/version/13/
+}
+
+{
+  rarity : 50
+  version : 
+    name : platinum
+    url : https://pokeapi.co/api/v2/version/14/
+}
+
+{
+  rarity : 50
+  version : 
+    name : heartgold
+    url : https://pokeapi.co/api/v2/version/15/
+}
+
+{
+  rarity : 50
+  version : 
+    name : soulsilver
+    url : https://pokeapi.co/api/v2/version/16/
+}
+
+{
+  rarity : 50
+  version : 
+    name : black
+    url : https://pokeapi.co/api/v2/version/17/
+}
+
+{
+  rarity : 50
+  version : 
+    name : white
+    url : https://pokeapi.co/api/v2/version/18/
+}

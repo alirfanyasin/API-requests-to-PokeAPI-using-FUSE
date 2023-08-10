@@ -1,0 +1,42 @@
+name : pay-day
+url : https://pokeapi.co/api/v2/move/6/
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : red-blue
+    url : https://pokeapi.co/api/v2/version-group/1/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : yellow
+    url : https://pokeapi.co/api/v2/version-group/2/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : lets-go-pikachu-lets-go-eevee
+    url : https://pokeapi.co/api/v2/version-group/19/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : sword-shield
+    url : https://pokeapi.co/api/v2/version-group/20/
+}

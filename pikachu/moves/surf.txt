@@ -1,0 +1,42 @@
+name : surf
+url : https://pokeapi.co/api/v2/move/57/
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : stadium-surfing-pikachu
+    url : https://pokeapi.co/api/v2/move-learn-method/5/
+  version_group :
+    name : red-blue
+    url : https://pokeapi.co/api/v2/version-group/1/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : stadium-surfing-pikachu
+    url : https://pokeapi.co/api/v2/move-learn-method/5/
+  version_group :
+    name : yellow
+    url : https://pokeapi.co/api/v2/version-group/2/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : sword-shield
+    url : https://pokeapi.co/api/v2/version-group/20/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : scarlet-violet
+    url : https://pokeapi.co/api/v2/version-group/25/
+}

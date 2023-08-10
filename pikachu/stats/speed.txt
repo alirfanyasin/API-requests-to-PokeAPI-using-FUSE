@@ -1,0 +1,4 @@
+name : speed
+base_stat : 90
+effort : 2
+url : https://pokeapi.co/api/v2/stat/6/

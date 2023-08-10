@@ -1,0 +1,112 @@
+name : thunder-punch
+url : https://pokeapi.co/api/v2/move/9/
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : gold-silver
+    url : https://pokeapi.co/api/v2/version-group/3/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : crystal
+    url : https://pokeapi.co/api/v2/version-group/4/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : emerald
+    url : https://pokeapi.co/api/v2/version-group/6/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : platinum
+    url : https://pokeapi.co/api/v2/version-group/9/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : heartgold-soulsilver
+    url : https://pokeapi.co/api/v2/version-group/10/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : black-2-white-2
+    url : https://pokeapi.co/api/v2/version-group/14/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : omega-ruby-alpha-sapphire
+    url : https://pokeapi.co/api/v2/version-group/16/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : ultra-sun-ultra-moon
+    url : https://pokeapi.co/api/v2/version-group/18/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : lets-go-pikachu-lets-go-eevee
+    url : https://pokeapi.co/api/v2/version-group/19/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : sword-shield
+    url : https://pokeapi.co/api/v2/version-group/20/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : scarlet-violet
+    url : https://pokeapi.co/api/v2/version-group/25/
+}

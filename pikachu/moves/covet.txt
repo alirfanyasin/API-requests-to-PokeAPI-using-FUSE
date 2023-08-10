@@ -1,0 +1,32 @@
+name : covet
+url : https://pokeapi.co/api/v2/move/343/
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : black-2-white-2
+    url : https://pokeapi.co/api/v2/version-group/14/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : omega-ruby-alpha-sapphire
+    url : https://pokeapi.co/api/v2/version-group/16/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : ultra-sun-ultra-moon
+    url : https://pokeapi.co/api/v2/version-group/18/
+}

@@ -1,0 +1,22 @@
+name : counter
+url : https://pokeapi.co/api/v2/move/68/
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : emerald
+    url : https://pokeapi.co/api/v2/version-group/6/
+}
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : tutor
+    url : https://pokeapi.co/api/v2/move-learn-method/3/
+  version_group :
+    name : firered-leafgreen
+    url : https://pokeapi.co/api/v2/version-group/7/
+}

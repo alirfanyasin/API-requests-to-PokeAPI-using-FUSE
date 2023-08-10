@@ -1,0 +1,4 @@
+name : imposter
+url : https://pokeapi.co/api/v2/ability/150/
+is_hidden : True
+slot : 3

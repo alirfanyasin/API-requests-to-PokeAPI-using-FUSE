@@ -1,0 +1,4 @@
+name : defense
+base_stat : 48
+effort : 0
+url : https://pokeapi.co/api/v2/stat/3/

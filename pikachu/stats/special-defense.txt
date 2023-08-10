@@ -1,0 +1,4 @@
+name : special-defense
+base_stat : 50
+effort : 0
+url : https://pokeapi.co/api/v2/stat/5/

@@ -1,0 +1,4 @@
+name : hp
+base_stat : 35
+effort : 0
+url : https://pokeapi.co/api/v2/stat/1/

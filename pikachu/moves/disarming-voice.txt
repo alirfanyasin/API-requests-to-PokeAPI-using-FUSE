@@ -1,0 +1,12 @@
+name : disarming-voice
+url : https://pokeapi.co/api/v2/move/574/
+
+{
+  level_learned_at : 0
+  move_learn_method :
+    name : machine
+    url : https://pokeapi.co/api/v2/move-learn-method/4/
+  version_group :
+    name : scarlet-violet
+    url : https://pokeapi.co/api/v2/version-group/25/
+}

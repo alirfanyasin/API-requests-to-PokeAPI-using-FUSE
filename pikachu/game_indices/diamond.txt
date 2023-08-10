@@ -1,0 +1,4 @@
+game_index : 25
+version :
+  name : diamond
+  url : https://pokeapi.co/api/v2/version/12/

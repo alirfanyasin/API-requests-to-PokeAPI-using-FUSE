@@ -1,0 +1,22 @@
+name : sweet-kiss
+url : https://pokeapi.co/api/v2/move/186/
+
+{
+  level_learned_at : 1
+  move_learn_method :
+    name : level-up
+    url : https://pokeapi.co/api/v2/move-learn-method/1/
+  version_group :
+    name : sword-shield
+    url : https://pokeapi.co/api/v2/version-group/20/
+}
+
+{
+  level_learned_at : 1
+  move_learn_method :
+    name : level-up
+    url : https://pokeapi.co/api/v2/move-learn-method/1/
+  version_group :
+    name : scarlet-violet
+    url : https://pokeapi.co/api/v2/version-group/25/
+}
